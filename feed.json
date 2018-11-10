@@ -13,8 +13,8 @@
             "id": "https://www.labhoen.nl/tweede-post.html",
             "url": "https://www.labhoen.nl/tweede-post.html",
             "title": "Tweede Post",
-            "summary": "Met hier de nodige tekst om het een heel verhaal te laten lijken.",
-            "content_html": "Met hier de nodige tekst om het een heel verhaal te laten lijken.",
+            "summary": "Glow, Eindhoven, 10-17 November. Pakweg 30 kunstenaars met de mooiste creaties voor de november nacht. De meeste installaties zijn gratis toegankelijk.",
+            "content_html": "<a href=\"https://gloweindhoven.nl\">Glow</a>, Eindhoven, 10-17 November. Pakweg 30 kunstenaars met de mooiste creaties voor de november nacht. De meeste installaties zijn gratis toegankelijk.",
             "image": "https://www.labhoen.nl/media/posts/2/",
             "author": {
                 "name": "mrhoen"
@@ -22,14 +22,14 @@
             "tags": [
             ],
             "date_published": "2018-11-10T15:15:42+01:00",
-            "date_modified": "2018-11-10T15:15:42+01:00"
+            "date_modified": "2018-11-10T16:11:20+01:00"
         },
         {
             "id": "https://www.labhoen.nl/test.html",
             "url": "https://www.labhoen.nl/test.html",
-            "title": "Test",
-            "summary": "Stukje tekst",
-            "content_html": "Stukje tekst",
+            "title": "Eerste post",
+            "summary": "De eerste post op een eerste site gehost door Tumblr. We gaan in de praktijk ontdekken hoe of het werkt. Als het bevalt is dit wellicht de basis voor een andere site maar daar over later.",
+            "content_html": "De eerste post op een eerste site gehost door Tumblr. We gaan in de praktijk ontdekken hoe of het werkt. Als het bevalt is dit wellicht de basis voor een andere site maar daar over later.",
             "image": "https://www.labhoen.nl/media/posts/1/",
             "author": {
                 "name": "mrhoen"
@@ -37,7 +37,7 @@
             "tags": [
             ],
             "date_published": "2018-05-01T20:13:31+02:00",
-            "date_modified": "2018-05-01T20:13:31+02:00"
+            "date_modified": "2018-11-10T16:12:00+01:00"
         }
     ]
 }
