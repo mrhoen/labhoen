@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Labhoen</title>
+    <link href="https://www.labhoen.nl/feed.xml" rel="self" />
+    <link href="https://www.labhoen.nl" />
+    <updated>2018-11-10T16:06:25+01:00</updated>
+    <author>
+        <name>mrhoen</name>
+    </author>
+    <id>https://www.labhoen.nl</id>
+
+    <entry>
+        <title>Tweede Post</title>
+        <author>
+            <name>mrhoen</name>
+        </author>
+        <link href="https://www.labhoen.nl/tweede-post.html"/>
+        <id>https://www.labhoen.nl/tweede-post.html</id>
+
+        <updated>2018-11-10T15:15:42+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.labhoen.nl/media/posts/2/" alt="" />
+                    Met hier de nodige tekst om het een heel verhaal te laten lijken.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://www.labhoen.nl/media/posts/2/" alt="" />
+                Met hier de nodige tekst om het een heel verhaal te laten lijken.
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>mrhoen</name>
+        </author>
+        <link href="https://www.labhoen.nl/test.html"/>
+        <id>https://www.labhoen.nl/test.html</id>
+
+        <updated>2018-05-01T20:13:31+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.labhoen.nl/media/posts/1/" alt="" />
+                    Stukje tekst
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://www.labhoen.nl/media/posts/1/" alt="" />
+                Stukje tekst
+            ]]>
+        </content>
+    </entry>
+</feed>

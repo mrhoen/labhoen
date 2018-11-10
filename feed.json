@@ -1,0 +1,43 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Labhoen",
+    "description": "",
+    "home_page_url": "https://www.labhoen.nl",
+    "feed_url": "https://www.labhoen.nl/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "mrhoen"
+    },
+    "items": [
+        {
+            "id": "https://www.labhoen.nl/tweede-post.html",
+            "url": "https://www.labhoen.nl/tweede-post.html",
+            "title": "Tweede Post",
+            "summary": "Met hier de nodige tekst om het een heel verhaal te laten lijken.",
+            "content_html": "Met hier de nodige tekst om het een heel verhaal te laten lijken.",
+            "image": "https://www.labhoen.nl/media/posts/2/",
+            "author": {
+                "name": "mrhoen"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-11-10T15:15:42+01:00",
+            "date_modified": "2018-11-10T15:15:42+01:00"
+        },
+        {
+            "id": "https://www.labhoen.nl/test.html",
+            "url": "https://www.labhoen.nl/test.html",
+            "title": "Test",
+            "summary": "Stukje tekst",
+            "content_html": "Stukje tekst",
+            "image": "https://www.labhoen.nl/media/posts/1/",
+            "author": {
+                "name": "mrhoen"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-05-01T20:13:31+02:00",
+            "date_modified": "2018-05-01T20:13:31+02:00"
+        }
+    ]
+}
