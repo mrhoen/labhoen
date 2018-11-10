@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://www.labhoen.nl/hosten-van-een-blog.html",
+            "url": "https://www.labhoen.nl/hosten-van-een-blog.html",
+            "title": "Hosten van een blog",
+            "summary": "Het is niet eenvoudig een blog te maken. De keuze voor hosting en software hangt heel nauw met elkaar samen. Wordpress, Joomla en soortgenoten kun je zelf hosten maar ook laten hosten. Daarnaast is er ook nog zo iets als privacy van de blogger en&hellip;",
+            "content_html": "<p class=\"p1\">Het is niet eenvoudig een blog te maken. De keuze voor hosting en software hangt heel nauw met elkaar samen. <a href=\"http://www.wordpress.com\">Wordpress</a>, <a href=\"https://www.joomla.com\">Joomla</a> en soortgenoten kun je zelf hosten maar ook laten hosten. Daarnaast is er ook nog zo iets als privacy van de blogger en bezoekers.</p>\n<p><img class=\"post__image--full align-center\" src=\"https://www.labhoen.nl/media/posts/3/Schermafbeelding-2018-11-10-om-17.20.13.png\" alt=\"\" width=\"300\" height=\"263\"></p>\n<p>Het zelf hosten van blogsoftware heeft de nodige haken en ogen. Je zult de software actueel moeten houden wil je voorkomen dat je site misbruikt wordt door internet gespuis. Maar wie heeft zin allerlei technische complexe zaken als updates en incompatible plug-ins? Met andere worden, alleen als de hoster de verantwoordelijkheid op zich neemt voor het actueel houden van de software is dit een (betaalde) optie.</p>\n<p>Kies je voor een hosting platform dan loop je wel het risico dat jou site wordt gebruikt om nog meer te weten te komen over de bezoekers. <a href=\"https://www.blogger.com\">Blogger</a> (van Google) staat stijf van de analytische scripts, maar dit geldt evengoed voor <span class=\"s1\">WordPress</span> of <span class=\"s1\">Jimdo.</span></p>\n<p>Voor dit blog is er een andere weg gevolgd. <a href=\"https://getpublii.com\">Publii</a> wordt gebruikt als offline editor om de site te beheren en de posts aan te maken. Het resultaat wordt geupload naar <a href=\"https://pages.github.com\">GitHub</a> Pages. Het offline aanmaken van een site haalt een zeker risico weg, immers er is geen login pagina op het web meer toegankelijk. Bijkomend voordeel is, is dat de site snel is. Er komt geen PHP of database meer aan te pas. Het nadeel van een offline editor is dat je er niet vanaf iedere plek bij kunt.</p>",
+            "image": "https://www.labhoen.nl/media/posts/3/",
+            "author": {
+                "name": "mrhoen"
+            },
+            "tags": [
+                   "hosting"
+            ],
+            "date_published": "2018-11-10T17:23:02+01:00",
+            "date_modified": "2018-11-10T17:27:19+01:00"
+        },
+        {
             "id": "https://www.labhoen.nl/tweede-post.html",
             "url": "https://www.labhoen.nl/tweede-post.html",
             "title": "Tweede Post",
@@ -28,8 +44,8 @@
             "id": "https://www.labhoen.nl/test.html",
             "url": "https://www.labhoen.nl/test.html",
             "title": "Eerste post",
-            "summary": "De eerste post op een eerste site gehost door Tumblr. We gaan in de praktijk ontdekken hoe of het werkt. Als het bevalt is dit wellicht de basis voor een andere site maar daar over later.",
-            "content_html": "De eerste post op een eerste site gehost door Tumblr. We gaan in de praktijk ontdekken hoe of het werkt. Als het bevalt is dit wellicht de basis voor een andere site maar daar over later.",
+            "summary": "De eerste post op een eerste site gehost door GitHub pages. We gaan in de praktijk ontdekken hoe of het werkt. Als het bevalt is dit wellicht de basis voor een andere site maar daar over later.",
+            "content_html": "De eerste post op een eerste site gehost door GitHub pages. We gaan in de praktijk ontdekken hoe of het werkt. Als het bevalt is dit wellicht de basis voor een andere site maar daar over later.",
             "image": "https://www.labhoen.nl/media/posts/1/",
             "author": {
                 "name": "mrhoen"
@@ -37,7 +53,7 @@
             "tags": [
             ],
             "date_published": "2018-05-01T20:13:31+02:00",
-            "date_modified": "2018-11-10T16:12:00+01:00"
+            "date_modified": "2018-11-10T16:28:25+01:00"
         }
     ]
 }

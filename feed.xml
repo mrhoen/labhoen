@@ -3,12 +3,39 @@
     <title>Labhoen</title>
     <link href="https://www.labhoen.nl/feed.xml" rel="self" />
     <link href="https://www.labhoen.nl" />
-    <updated>2018-11-10T16:25:17+01:00</updated>
+    <updated>2018-11-10T17:29:42+01:00</updated>
     <author>
         <name>mrhoen</name>
     </author>
     <id>https://www.labhoen.nl</id>
 
+    <entry>
+        <title>Hosten van een blog</title>
+        <author>
+            <name>mrhoen</name>
+        </author>
+        <link href="https://www.labhoen.nl/hosten-van-een-blog.html"/>
+        <id>https://www.labhoen.nl/hosten-van-een-blog.html</id>
+            <category term="hosting"/>
+
+        <updated>2018-11-10T17:27:19+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.labhoen.nl/media/posts/3/" alt="" />
+                    Het is niet eenvoudig een blog te maken. De keuze voor hosting en software hangt heel nauw met elkaar samen. Wordpress, Joomla en soortgenoten kun je zelf hosten maar ook laten hosten. Daarnaast is er ook nog zo iets als privacy van de blogger en&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://www.labhoen.nl/media/posts/3/" alt="" />
+                <p class="p1">Het is niet eenvoudig een blog te maken. De keuze voor hosting en software hangt heel nauw met elkaar samen. <a href="http://www.wordpress.com">Wordpress</a>, <a href="https://www.joomla.com">Joomla</a> en soortgenoten kun je zelf hosten maar ook laten hosten. Daarnaast is er ook nog zo iets als privacy van de blogger en bezoekers.</p>
+<p><img class="post__image--full align-center" src="https://www.labhoen.nl/media/posts/3/Schermafbeelding-2018-11-10-om-17.20.13.png" alt="" width="300" height="263"></p>
+<p>Het zelf hosten van blogsoftware heeft de nodige haken en ogen. Je zult de software actueel moeten houden wil je voorkomen dat je site misbruikt wordt door internet gespuis. Maar wie heeft zin allerlei technische complexe zaken als updates en incompatible plug-ins? Met andere worden, alleen als de hoster de verantwoordelijkheid op zich neemt voor het actueel houden van de software is dit een (betaalde) optie.</p>
+<p>Kies je voor een hosting platform dan loop je wel het risico dat jou site wordt gebruikt om nog meer te weten te komen over de bezoekers. <a href="https://www.blogger.com">Blogger</a> (van Google) staat stijf van de analytische scripts, maar dit geldt evengoed voor <span class="s1">WordPress</span> of <span class="s1">Jimdo.</span></p>
+<p>Voor dit blog is er een andere weg gevolgd. <a href="https://getpublii.com">Publii</a> wordt gebruikt als offline editor om de site te beheren en de posts aan te maken. Het resultaat wordt geupload naar <a href="https://pages.github.com">GitHub</a> Pages. Het offline aanmaken van een site haalt een zeker risico weg, immers er is geen login pagina op het web meer toegankelijk. Bijkomend voordeel is, is dat de site snel is. Er komt geen PHP of database meer aan te pas. Het nadeel van een offline editor is dat je er niet vanaf iedere plek bij kunt.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Tweede Post</title>
         <author>
@@ -39,17 +66,17 @@
         <link href="https://www.labhoen.nl/test.html"/>
         <id>https://www.labhoen.nl/test.html</id>
 
-        <updated>2018-11-10T16:12:00+01:00</updated>
+        <updated>2018-11-10T16:28:25+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.labhoen.nl/media/posts/1/" alt="" />
-                    De eerste post op een eerste site gehost door Tumblr. We gaan in de praktijk ontdekken hoe of het werkt. Als het bevalt is dit wellicht de basis voor een andere site maar daar over later.
+                    De eerste post op een eerste site gehost door GitHub pages. We gaan in de praktijk ontdekken hoe of het werkt. Als het bevalt is dit wellicht de basis voor een andere site maar daar over later.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://www.labhoen.nl/media/posts/1/" alt="" />
-                De eerste post op een eerste site gehost door Tumblr. We gaan in de praktijk ontdekken hoe of het werkt. Als het bevalt is dit wellicht de basis voor een andere site maar daar over later.
+                De eerste post op een eerste site gehost door GitHub pages. We gaan in de praktijk ontdekken hoe of het werkt. Als het bevalt is dit wellicht de basis voor een andere site maar daar over later.
             ]]>
         </content>
     </entry>
