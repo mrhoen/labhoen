@@ -3,7 +3,7 @@
     <title>Labhoen</title>
     <link href="https://www.labhoen.nl/feed.xml" rel="self" />
     <link href="https://www.labhoen.nl" />
-    <updated>2018-11-12T21:02:43+01:00</updated>
+    <updated>2018-11-12T21:07:33+01:00</updated>
     <author>
         <name>mrhoen</name>
     </author>
@@ -46,20 +46,20 @@
             <category term="KPN"/>
             <category term="4G"/>
 
-        <updated>2018-11-12T20:57:09+01:00</updated>
+        <updated>2018-11-12T21:07:22+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.labhoen.nl/media/posts/5/" alt="" />
-                    in een vorige post zijn de ervaringen met Internet Buitengebied 4G (IB4G) van KPN gedeeld. Eén belangrijk kritiekpunt was het het feit dat de Experia box bij gebruik telefonie (en ook TV) aan moet blijven. Consequentie is dat er dan op één locatie feitelijk twee&hellip;
+                    in een vorige post zijn de ervaringen met Internet Buitengebied 4G (IB4G) van KPN gedeeld. Eén belangrijk kritiekpunt was het feit dat de Experia box bij gebruik telefonie (en ook TV) aan moet blijven. Consequentie is dat er dan op één locatie feitelijk twee netwerken&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://www.labhoen.nl/media/posts/5/" alt="" />
-                <p class="p1">in een vorige post zijn de ervaringen met Internet Buitengebied 4G (IB4G) van KPN gedeeld. Eén belangrijk kritiekpunt was het het feit dat de Experia box bij gebruik telefonie (en ook TV) aan moet blijven. Consequentie is dat er dan op één locatie feitelijk twee netwerken actief zijn.</p>
-<p class="p3">Sinds deze zomer levert KPN een ander product, Sneller Internet Buitengebied 4G (<a href="https://www.kpn.com/service/internet/wifi-en-modems/4g-modem-buitengebied.htm">SIB4G</a>). Technisch is dit gebaseerd op een 4G modem van Sagem. Deze wordt met de Experia Box verbonden. Samen zorgen ze dan voor een grotere bandbreedte. Ookal is het dan geen 3G/4G dongle rechtstreeks in de Experabox in de praktijk gedraagt deze combinatie zich als één geheel. Zodra de ADSL verbinding aan z’n maximale capaciteit zit wordt de 4G modem ingeschakeld voor extra bandbreedte.</p>
+                <p class="p1">in een vorige post zijn de ervaringen met Internet Buitengebied 4G (IB4G) van KPN gedeeld. Eén belangrijk kritiekpunt was het feit dat de Experia box bij gebruik telefonie (en ook TV) aan moet blijven. Consequentie is dat er dan op één locatie feitelijk twee netwerken actief zijn.</p>
+<p class="p3">Sinds deze zomer levert KPN een ander product, Sneller Internet Buitengebied 4G (<a href="https://www.kpn.com/service/internet/wifi-en-modems/4g-modem-buitengebied.htm">SIB4G</a>). Technisch is dit gebaseerd op een 4G modem van Sagem. Deze wordt met de Experia Box verbonden. Samen zorgen ze dan voor een grotere bandbreedte. Ookal is het dan geen 3G/4G dongle rechtstreeks in de Experabox, in de praktijk gedraagt deze combinatie zich als één geheel. Zodra de ADSL verbinding aan z’n maximale capaciteit zit wordt de 4G modem ingeschakeld voor extra bandbreedte.</p>
 <p class="p2"><img class="post__image--center" src="https://www.labhoen.nl/media/posts/5/c4342e3e-b55e-4f3c-91e7-2fba5c94d264_BAN-buitengebied-ontvanger.jpg" width="275" height="187"></p>
-<p class="p3">In de praktijk is de snelheidsverhoging opmerkelijk. Van gemiddeld 4Mbps down- en 0,7Mbps upload met enkel ADSL wordt in combinatie met de 4G verbinding een snelheid van circa 36Mbps down- en 10Mbps upload gehaald. Een significante verbetering! Het in- maar ook het uitschakelen van de 4G verbinding gaat geheel automatisch.</p>
+<p class="p3">In de praktijk is de snelheidsverhoging opmerkelijk. Van gemiddeld 4Mbps down- en 0,7Mbps upload met enkel ADSL wordt in combinatie met de 4G verbinding een snelheid van circa 36Mbps down- en 10Mbps upload gehaald. Een significante verbetering! Het in- en ook het uitschakelen van de 4G verbinding gaat geheel automatisch.</p>
 <p class="p2">Het dagelijks gebruik van SIB4G levert wel een paar opmerkelijke zaken. Allereerst biedt het 4G modem 3 leds voor de signaalsterkte. In de praktijk brandt er altijd maar 1. De modem is voor de download snelheid weinig richting gevoelig, voor de upload snelheid is dit een ander verhaal. Het verschil tussen matig of goed uitrichten is een verschil tussen 1,5 of 10Mbps.</p>
 <p class="p2">In de praktijk is deze oplossing stabiel gebleken. Zowel streaming diensten (Netflix, Spotify) als het downloaden van grote bestanden vertonen geen rare storingen. Omdat ADSL IPv6 ondersteund werkt in de praktijk ook het uploaden naar websites. Daarnaast is de service van KPN uitstekend gebleken. Zonder toestanden is de modem geleverd en de aansluiting was keurig binnen een week actief.</p>
             ]]>
