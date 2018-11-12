@@ -3,7 +3,7 @@
     <title>Labhoen</title>
     <link href="https://www.labhoen.nl/feed.xml" rel="self" />
     <link href="https://www.labhoen.nl" />
-    <updated>2018-11-12T21:07:33+01:00</updated>
+    <updated>2018-11-12T21:12:52+01:00</updated>
     <author>
         <name>mrhoen</name>
     </author>
@@ -75,7 +75,7 @@
             <category term="KPN"/>
             <category term="4G"/>
 
-        <updated>2018-11-12T20:56:52+01:00</updated>
+        <updated>2018-11-12T21:12:43+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.labhoen.nl/media/posts/4/" alt="" />
@@ -87,14 +87,14 @@
                     <img src="https://www.labhoen.nl/media/posts/4/" alt="" />
                 <p class="p1">Met dank aan KPN wordt hier sinds begin 2018 naast een ADSL lijn ook gebruik gemaakt van Internet Buitengebied, ook wel 4G of boeren internet genoemd. Ik wil jullie deelgenoot maken van mijn ervaringen, wellicht kan iemand hier zijn voordeel mee doen.</p>
 <p class="p2">De situatie hier is een ADSL connectie welke maximaal 4Mbps download en 0,7Mbps upload levert. Als aanvulling hierop is Internet Buitengebied 4G (IB4G) op basis van een 4G/LTE modem/router HUAWEI-B525 gerealiseerd.</p>
-<p class="p2"><img class="post__image--center" src="https://www.labhoen.nl/media/posts/4/B315-600x600.png" alt="Huwei B525" width="295" height="295">De snelheid die gehaald wordt varieert van circa 5 tot 65Mbps gemeten met de snelheidstest op de KPN site (<a href="https://kpn-itns.speedtestcustom.com/"><span class="s1">https://kpn-itns.speedtestcustom.com/</span></a>). De grote variatie in snelheid is opvallend. Deze is blijkbaar sterk afhankelijk van het overige verkeer op het 4G netwerk. Ook lijkt het er op dat de snelheid hoger is net nadat het modem is aangezet. Na verloop van tijd wordt de snelheid duidelijk minder.</p>
+<p class="p2"><img class="post__image--center" src="https://www.labhoen.nl/media/posts/4/B315-600x600.png" alt="Huwei B525" width="295" height="295">De snelheid die gehaald wordt varieert van circa 5 tot 65Mbps gemeten met de snelheidstest op de <a href="https://kpn-itns.speedtestcustom.com/">KPN</a> site. De grote variatie in snelheid is opvallend. Deze is blijkbaar sterk afhankelijk van het overige verkeer op het 4G netwerk. Ook lijkt het er op dat de snelheid hoger is net nadat het modem is aangezet. Na verloop van tijd wordt de snelheid duidelijk minder.</p>
 <p class="p2">Opvallend is dat gebruik van Netflix of Uitzending Gemist via de ADSL verbinding leidt tot minder haperingen. Is er een verstoring bij het kijken via 4G dan is voor- of achteruit spoelen erg lastig. Met ADSL gaat dit aanmerkelijk soepeler.</p>
 <p class="p2">De signaalsterkte leds vertellen niet het hele verhaal. Regelmatig is geconstateerd dat een status met 3 of 4 brandende leds niet beter hoeft te zijn dan een status met 1 of 2 leds. Er is blijkbaar nog zoiets als signaalkwaliteit.</p>
-<p class="p2">Het gebruik van externe antennes op het modem geeft een gemengd beeld. Een <a href="https://www.capestone.nl/Antennes-en-kabels/Poynting-A-XPOL-0001-omni-antenne-4G-3G-2G-outdoor-antenne-4-dBi-MIMO-2x-5-meter-kabel/">buitenantenne</a> met een signaalversterking van 4 dBi is in de praktijk nutteloos omdat de 5 meter vaste kabel weer een verzwakking oplevert. Een beter resultaat wordt verkregen met <a href="https://www.dectdirect.nl/nl/huawei-b593-b315-b525-antenna.html">2 losse antennes</a>. De downloadsnelheid loopt op van gemiddeld 40 naar 60Mbps (piekwaarden).</p>
-<p class="p2">Het modem zelf is een wat dubieus apparaat. Het is niet mogelijk zelf de DNS instellingen aan te passen, althans niet voor het WiFi deel, wel voor het ethernet deel. Het WiFi signaal zelf is heel sterk, helaas moeten de netwerken op de 2,4GHz en 5GHz band elk een andere naam hebben. Mijn Apple AirPort Extreme uit 2014 kan al met eenzelfde naam voor beide frequenties werken.</p>
+<p class="p2">Het gebruik van externe antennes op het modem geeft een gemengd beeld. Een <a href="https://www.capestone.nl/Antennes-en-kabels/Poynting-A-XPOL-0001-omni-antenne-4G-3G-2G-outdoor-antenne-4-dBi-MIMO-2x-5-meter-kabel/">buitenantenne</a> met een signaalversterking van 4 dBi is in de praktijk nutteloos omdat de 5 meter vaste kabel weer een verzwakking oplevert. Een beter resultaat wordt verkregen met <a href="https://www.dectdirect.nl/nl/huawei-b593-b315-b525-antenna.html">2 losse antennes</a>. De downloadsnelheid loopt op van gemiddeld 40 naar 65Mbps (piekwaarden).</p>
+<p class="p2">Het modem zelf is een wat dubieus apparaat. Het is niet mogelijk zelf de DNS instellingen aan te passen, althans niet voor het WiFi deel, wel voor het ethernet deel. Het WiFi signaal zelf is heel sterk, helaas moeten de netwerken op de 2,4GHz en 5GHz band elk een andere naam hebben. Mijn Apple AirPort Extreme uit 2014 kan al met eenzelfde naam voor beide frequenties werken. De bijbehorende app van Huawei is simpelweg waardeloos.</p>
 <p class="p2">Het ontbreken van bridge mode (volledig uitschakelen van de router functies en direct doorgeven van het externe IP nummer) is zonder meer jammer omdat je dan maar heel beperkt gebruik kunt maken van moderne mesh routers.</p>
 <p class="p2">Het 4G netwerk is volledige IPv4 gebaseerd, de moderne clients (Windows 10, macOs) maken bijvoorkeur gebruik van IPv6. Dit leidt tot problemen bijvoorbeeld wanneer een FTP upload naar een webhoster plaats moet vinden.</p>
-<p class="p2">Zelf gebruik ik naast internet ook telefonie van KPN. Consequentie is dat er nu een 4G modem/router én een Experia box actief zijn. Technisch zou het 4G apparaat ook geschikt moeten zijn voor een telefoonverbinding. De Experia box heeft een usb aansluiting voor een 3G/4G dongle. Er lijkt hier sprake te zijn van overlappende functionaliteit die niet slim gecombineerd kan worden.</p>
+<p class="p2">Zelf gebruik ik naast internet ook telefonie van KPN. Consequentie is dat er nu een 4G modem/router én een Experia box actief zijn. Technisch zou de Huawei ook geschikt moeten zijn voor een telefoonverbinding. De Experia box heeft een usb aansluiting voor een 3G/4G dongle. Er lijkt hier sprake te zijn van overlappende functionaliteit die niet slim gecombineerd kan worden.</p>
 <p class="p2">Kortom: Internet Buitengebied is een prima antwoord op het gebrek aan bandbreedte maar is niet een volledige vervanger van een ADSL verbinding. Daarvoor zijn de nukken en kuren (nog) te groot.</p>
             ]]>
         </content>
