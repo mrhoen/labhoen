@@ -3,7 +3,7 @@
     <title>Labhoen</title>
     <link href="https://www.labhoen.nl/feed.xml" rel="self" />
     <link href="https://www.labhoen.nl" />
-    <updated>2019-01-06T19:06:08+01:00</updated>
+    <updated>2019-05-02T14:53:28+02:00</updated>
     <author>
         <name>mrhoen</name>
     </author>
@@ -16,8 +16,6 @@
         </author>
         <link href="https://www.labhoen.nl/itunes-in-combinatie-met-een-steamer-en-nas.html"/>
         <id>https://www.labhoen.nl/itunes-in-combinatie-met-een-steamer-en-nas.html</id>
-            <category term="iTunes"/>
-            <category term="Mac"/>
 
         <updated>2019-01-06T19:05:56+01:00</updated>
             <summary>
@@ -57,18 +55,15 @@
         </author>
         <link href="https://www.labhoen.nl/internetproviders-en-glasvezel-in-het-buitengebied.html"/>
         <id>https://www.labhoen.nl/internetproviders-en-glasvezel-in-het-buitengebied.html</id>
-            <category term="KPN"/>
 
         <updated>2018-11-12T21:00:44+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.labhoen.nl/media/posts/6/" alt="" />
                     De geschiedenis herhaalt zich, zo ook nu weer met de aanleg van glasvezel in het buitengebied van de gemeente Heeze-Leende. Tot eind 2017 woonde ik in Gerwen, nabij Nuenen. Nuenen is al ruim 10 jaar voorzien van glasvezel. Zelfs in een klein dorp als Gerwen zijn&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.labhoen.nl/media/posts/6/" alt="" />
                 <p>De geschiedenis herhaalt zich, zo ook nu weer met de aanleg van glasvezel in het buitengebied van de gemeente Heeze-Leende.</p>
 <p>Tot eind 2017 woonde ik in Gerwen, nabij Nuenen. Nuenen is al ruim 10 jaar voorzien van glasvezel. Zelfs in een klein dorp als Gerwen zijn alle huishoudens voorzien van een glasvezelaansluiting zonder dat er sprake was van een eigen bijdrage in de kosten. Dit gold echter niet voor het buitengebied. Hier bleef men aangewezen op beperkte ADSL verbindingen of slechter. Een alternatief als Ziggo is daar niet of nauwelijks voorhanden. Pas sinds deze zomer wordt er door <a href="https://www.glasvezelbuitenaf.nl/mabib/">Mabib</a> werk gemaakt van de aanleg van glasvezel in het buitengebied. Helaas moeten de bewoners een eigen bijdrage van pakweg €1.100 leveren.</p>
 <p>Nu ben ik woonachtig in het buitengebied van Sterksel. Ook hier is sprake van een lokaal initiatief om iedereen gebruik te laten maken van glasvezel verbindingen. Het aansluiten van de dorpen Heeze, Leende en Sterksel is prima gelukt. Maar wederom komt het buitengebied er weer bekaaid af. Na een lange aanloopperiode is de <a href="https://www.hslnet.nl">HSLnet</a> organisatie zover dat het buitengebied ook aangesloten wordt. Helaas wordt er wel een eigen bijdrage van €3.300 gevraagd.</p>
@@ -84,19 +79,15 @@
         </author>
         <link href="https://www.labhoen.nl/sneller-internet-buitengebied-4g.html"/>
         <id>https://www.labhoen.nl/sneller-internet-buitengebied-4g.html</id>
-            <category term="KPN"/>
-            <category term="4G"/>
 
         <updated>2018-11-12T21:07:22+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.labhoen.nl/media/posts/5/" alt="" />
                     in een vorige post zijn de ervaringen met Internet Buitengebied 4G (IB4G) van KPN gedeeld. Eén belangrijk kritiekpunt was het feit dat de Experia box bij gebruik telefonie (en ook TV) aan moet blijven. Consequentie is dat er dan op één locatie feitelijk twee netwerken&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.labhoen.nl/media/posts/5/" alt="" />
                 <p class="p1">in een vorige post zijn de ervaringen met Internet Buitengebied 4G (IB4G) van KPN gedeeld. Eén belangrijk kritiekpunt was het feit dat de Experia box bij gebruik telefonie (en ook TV) aan moet blijven. Consequentie is dat er dan op één locatie feitelijk twee netwerken actief zijn.</p>
 <p class="p3">Sinds deze zomer levert KPN een ander product, Sneller Internet Buitengebied 4G (<a href="https://www.kpn.com/service/internet/wifi-en-modems/4g-modem-buitengebied.htm">SIB4G</a>). Technisch is dit gebaseerd op een 4G modem van Sagem. Deze wordt met de Experia Box verbonden. Samen zorgen ze dan voor een grotere bandbreedte. Ookal is het dan geen 3G/4G dongle rechtstreeks in de Experabox, in de praktijk gedraagt deze combinatie zich als één geheel. Zodra de ADSL verbinding aan z’n maximale capaciteit zit wordt de 4G modem ingeschakeld voor extra bandbreedte.</p>
 <p class="p2"><img class="post__image--center" src="https://www.labhoen.nl/media/posts/5/c4342e3e-b55e-4f3c-91e7-2fba5c94d264_BAN-buitengebied-ontvanger.jpg" width="275" height="187"></p>
@@ -113,19 +104,15 @@
         </author>
         <link href="https://www.labhoen.nl/internet-buitengebied-4g.html"/>
         <id>https://www.labhoen.nl/internet-buitengebied-4g.html</id>
-            <category term="KPN"/>
-            <category term="4G"/>
 
         <updated>2018-11-12T21:12:43+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.labhoen.nl/media/posts/4/" alt="" />
                     Met dank aan KPN wordt hier sinds begin 2018 naast een ADSL lijn ook gebruik gemaakt van Internet Buitengebied, ook wel 4G of boeren internet genoemd. Ik wil jullie deelgenoot maken van mijn ervaringen, wellicht kan iemand hier zijn voordeel mee doen. De situatie hier&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.labhoen.nl/media/posts/4/" alt="" />
                 <p class="p1">Met dank aan KPN wordt hier sinds begin 2018 naast een ADSL lijn ook gebruik gemaakt van Internet Buitengebied, ook wel 4G of boeren internet genoemd. Ik wil jullie deelgenoot maken van mijn ervaringen, wellicht kan iemand hier zijn voordeel mee doen.</p>
 <p class="p2">De situatie hier is een ADSL connectie welke maximaal 4Mbps download en 0,7Mbps upload levert. Als aanvulling hierop is Internet Buitengebied 4G (IB4G) op basis van een 4G/LTE modem/router HUAWEI-B525 gerealiseerd.</p>
 <p class="p2"><img class="post__image--center" src="https://www.labhoen.nl/media/posts/4/B315-600x600.png" alt="Huwei B525" width="295" height="295">De snelheid die gehaald wordt varieert van circa 5 tot 65Mbps gemeten met de snelheidstest op de <a href="https://kpn-itns.speedtestcustom.com/">KPN</a> site. De grote variatie in snelheid is opvallend. Deze is blijkbaar sterk afhankelijk van het overige verkeer op het 4G netwerk. Ook lijkt het er op dat de snelheid hoger is net nadat het modem is aangezet. Na verloop van tijd wordt de snelheid duidelijk minder.</p>
@@ -147,18 +134,15 @@
         </author>
         <link href="https://www.labhoen.nl/hosten-van-een-blog.html"/>
         <id>https://www.labhoen.nl/hosten-van-een-blog.html</id>
-            <category term="hosting"/>
 
         <updated>2018-11-10T17:27:19+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.labhoen.nl/media/posts/3/" alt="" />
                     Het is niet eenvoudig een blog te maken. De keuze voor hosting en software hangt heel nauw met elkaar samen. Wordpress, Joomla en soortgenoten kun je zelf hosten maar ook laten hosten. Daarnaast is er ook nog zo iets als privacy van de blogger en&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.labhoen.nl/media/posts/3/" alt="" />
                 <p class="p1">Het is niet eenvoudig een blog te maken. De keuze voor hosting en software hangt heel nauw met elkaar samen. <a href="http://www.wordpress.com">Wordpress</a>, <a href="https://www.joomla.com">Joomla</a> en soortgenoten kun je zelf hosten maar ook laten hosten. Daarnaast is er ook nog zo iets als privacy van de blogger en bezoekers.</p>
 <p><img class="post__image--full align-center" src="https://www.labhoen.nl/media/posts/3/Schermafbeelding-2018-11-10-om-17.20.13.png" alt="" width="300" height="263"></p>
 <p>Het zelf hosten van blogsoftware heeft de nodige haken en ogen. Je zult de software actueel moeten houden wil je voorkomen dat je site misbruikt wordt door internet gespuis. Maar wie heeft zin allerlei technische complexe zaken als updates en incompatible plug-ins? Met andere worden, alleen als de hoster de verantwoordelijkheid op zich neemt voor het actueel houden van de software is dit een (betaalde) optie.</p>
@@ -178,13 +162,11 @@
         <updated>2018-11-10T16:11:20+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.labhoen.nl/media/posts/2/" alt="" />
                     Glow, Eindhoven, 10-17 November. Pakweg 30 kunstenaars met de mooiste creaties voor de november nacht. De meeste installaties zijn gratis toegankelijk.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.labhoen.nl/media/posts/2/" alt="" />
                 <a href="https://gloweindhoven.nl">Glow</a>, Eindhoven, 10-17 November. Pakweg 30 kunstenaars met de mooiste creaties voor de november nacht. De meeste installaties zijn gratis toegankelijk.
             ]]>
         </content>
@@ -200,13 +182,11 @@
         <updated>2018-11-10T16:28:25+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.labhoen.nl/media/posts/1/" alt="" />
                     De eerste post op een eerste site gehost door GitHub pages. We gaan in de praktijk ontdekken hoe of het werkt. Als het bevalt is dit wellicht de basis voor een andere site maar daar over later.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.labhoen.nl/media/posts/1/" alt="" />
                 De eerste post op een eerste site gehost door GitHub pages. We gaan in de praktijk ontdekken hoe of het werkt. Als het bevalt is dit wellicht de basis voor een andere site maar daar over later.
             ]]>
         </content>
